@@ -3,5 +3,5 @@
 ## このリポジトリは、GitHub学習用のリポジトリです
 
 ### ダウンロード方法(2通り)
-#### 『Code』⇒『Download ZIP』をクリックする
-#### Linuxのgitコマンドを利用する
+1. 『Code』⇒『Download ZIP』をクリックする
+2. Linuxのgitコマンドを利用する
